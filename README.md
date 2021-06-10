@@ -1,10 +1,12 @@
-<img src="https://raw.githubusercontent.com/andrearecuyo/andrearecuyoportfolio/main/src/assets/img/hero.png">
-
 - 👋 Hi, I’m @andrearecuyo
 - 👀 I’m interested in gaming, music, and any kinds of entertainment literally.
 - 🌱 I’m currently learning JavaScript and Javascript Frameworks such as, Vue.js and ReactJS.
 - 💞️ I’m looking to collaborate on a better company that I believe I can work with.
 - 📫 How to reach me? email me at andrearecuyo@gmail.com
+
+Andrea Recuyo Portfolio
+
+<img src="https://raw.githubusercontent.com/andrearecuyo/andrearecuyoportfolio/main/src/assets/img/hero.png">
 
 This site was built using [ReactJS](https://reactjs.org/), [React Fullpage](https://github.com/alvarotrigo/react-fullpage), [EmailJS](https://www.emailjs.com/), and [Swiper](https://swiperjs.com/).
 
