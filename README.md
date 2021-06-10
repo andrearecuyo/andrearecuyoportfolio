@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a better company that I believe I can work with.
 - 📫 How to reach me? email me at andrearecuyo@gmail.com
 
-This site was built using [ReactJS](https://reactjs.org/) and [React Fullpage]https://github.com/alvarotrigo/react-fullpage [EmailJS]https://www.emailjs.com/ and [Swiper]https://swiperjs.com/.
+This site was built using [ReactJS](https://reactjs.org/) and [React Fullpage](https://github.com/alvarotrigo/react-fullpage), [EmailJS](https://www.emailjs.com/), and [Swiper](https://swiperjs.com/).
 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" width="200">
 
@@ -12,5 +12,5 @@ This is the first version of my portfolio, I am planning to show my progress thr
 
 Follow my journey, as I learn, design, and code more websites!
 
-[Behance]https://www.behance.net/andrearecuyo
-[LinkedIn]https://www.linkedin.com/in/andrearecuyo/
+[Behance](https://www.behance.net/andrearecuyo)
+[LinkedIn](https://www.linkedin.com/in/andrearecuyo/)
