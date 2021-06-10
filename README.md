@@ -1,3 +1,4 @@
+# Introduction #
 - 👋 Hi, I’m @andrearecuyo
 - 👀 I’m interested in gaming, music, and any kinds of entertainment literally.
 - 🌱 I’m currently learning JavaScript and Javascript Frameworks such as, Vue.js and ReactJS.
