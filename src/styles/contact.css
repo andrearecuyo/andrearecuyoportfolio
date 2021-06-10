@@ -1,0 +1,236 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container-footer {
+  position: relative;
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.contact-content {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.contact-header {
+  width: 650px;
+}
+
+.contact-header h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 100%;
+  letter-spacing: 0.0022em;
+  color: rgba(0, 0, 0, 0.87);
+  margin: 24px 0px;
+}
+
+.contact-header p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0.0007em;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.input-group input[type="email"] {
+  background: #f5f5f5;
+  border-radius: 12px;
+  padding: 1rem 2rem;
+  border: none;
+  margin-right: 16px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.0043em;
+  color: rgba(0, 0, 0, 0.774);
+}
+.input-group input[type="email"]:focus {
+  -webkit-appearance: none;
+  border-color: #fec3c3;
+  outline: 0;
+  box-shadow: 0 0 0 3px rgb(254 195 195 / 50%);
+}
+.contact-img {
+  width: 500px;
+}
+
+.contact-content img {
+  width: auto;
+  height: 500px;
+}
+
+.btn-light {
+  background: #f5f5f5;
+  mix-blend-mode: normal;
+  border-radius: 12px;
+  align-items: center;
+  padding: 13px 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-light span {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.0043em;
+  color: rgba(0, 0, 0, 0.87);
+  margin-right: 12px;
+  padding-left: 8px;
+  display: inline-flex;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-network {
+  width: 500px;
+  max-width: 100%;
+}
+.footer-network .btn-light {
+  background: #f5f5f5;
+  mix-blend-mode: normal;
+  border-radius: 12px;
+  align-items: center;
+  padding: 13px 24px;
+  border: none;
+  display: inline-flex;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.0043em;
+  color: rgba(0, 0, 0, 0.87);
+  margin-right: 12px;
+}
+.copyright {
+  width: 500px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.copyright span {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.0043em;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+@media (max-width: 991px) {
+  .container-footer {
+    position: relative;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .contact-header {
+    width: 100%;
+  }
+  .contact-content {
+    position: relative;
+    width: 100%;
+    display: block;
+    margin-bottom: 50px;
+  }
+  .contact-header h1 {
+    font-size: 36px;
+  }
+  .contact-header p {
+    font-size: 18px;
+  }
+  .contact-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .contact-content img {
+    width: auto;
+    height: 231px;
+  }
+  .footer {
+    margin-bottom: 25px;
+  }
+  .footer-content {
+    display: block;
+  }
+  .footer-network {
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-network .btn-light {
+    margin-right: 6px;
+    margin-left: 6px;
+  }
+  .copyright {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (max-width: 425px) {
+  .contact-form .btn-dark {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .contact-form .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .footer {
+    margin-bottom: 25px;
+  }
+  .footer-content {
+    display: block;
+  }
+  .footer-network {
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-network .btn-light {
+    margin-right: 6px;
+    margin-left: 6px;
+  }
+  .copyright {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
