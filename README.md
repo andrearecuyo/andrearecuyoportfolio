@@ -6,7 +6,7 @@
 
 This portfolio is created in:
 
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" style="width: 200px;">
 
 # Getting Started with Create React App
 
