@@ -1,10 +1,10 @@
-import imgCupcakes from '../assets/img/works/design/cupcake-post.png';
-import imgLuxLife from '../assets/img/works/design/luxlifenstyle.png';
-import imgJustbnco from '../assets/img/works/design/justbncomenu.png';
-import imgAlcohol from '../assets/img/works/design/iso-alcohol-packaging.png';
-import imgFbCover from '../assets/img/works/design/fbcover.png';
-import imgVWPOS from '../assets/img/works/design/vw-pos-brochure.png';
-import imgOrc from '../assets/img/works/design/orc-illustrator.png';
+import imgCupcakes from '../assets/img/works/design/cupcake-post.jpg';
+import imgLuxLife from '../assets/img/works/design/luxlifenstyle.jpg';
+import imgJustbnco from '../assets/img/works/design/justbncomenu.jpg';
+import imgAlcohol from '../assets/img/works/design/iso-alcohol-packaging.jpg';
+import imgFbCover from '../assets/img/works/design/fbcover.jpg';
+import imgVWPOS from '../assets/img/works/design/vw-pos-brochure.jpg';
+import imgOrc from '../assets/img/works/design/orc-illustrator.jpg';
 
 import imgJustbncoweb from '../assets/img/works/website/justbncoweb.png';
 import imgHeatwave from '../assets/img/works/website/heatwave.png';
