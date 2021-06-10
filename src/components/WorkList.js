@@ -6,20 +6,20 @@ import imgFbCover from '../assets/img/works/design/fbcover.jpg';
 import imgVWPOS from '../assets/img/works/design/vw_pos_brochure.jpg';
 import imgOrc from '../assets/img/works/design/orc_illustrator.jpg';
 
-import imgJustbncoweb from '../assets/img/works/website/justbncoweb.png';
-import imgHeatwave from '../assets/img/works/website/heatwave.png';
-import imgFvart from '../assets/img/works/website/fvart.png';
-import imgHdt from '../assets/img/works/website/hdt.png';
-import imgHealthluc from '../assets/img/works/website/healthluc.png';
-import imgIoway from '../assets/img/works/website/iowaybeefarm.png';
-import imgJournal from '../assets/img/works/website/journal.png';
-import imgLg from '../assets/img/works/website/lgdigitour.png';
+import imgJustbncoweb from '../assets/img/works/website/justbncoweb.jpg';
+import imgHeatwave from '../assets/img/works/website/heatwave.jpg';
+import imgFvart from '../assets/img/works/website/fvart.jpg';
+import imgHdt from '../assets/img/works/website/hdt.jpg';
+import imgHealthluc from '../assets/img/works/website/healthluc.jpg';
+import imgIoway from '../assets/img/works/website/iowaybeefarm.jpg';
+import imgJournal from '../assets/img/works/website/journal.jpg';
+import imgLg from '../assets/img/works/website/lgdigitour.jpg';
 
-import imgCoke from '../assets/img/works/website/coke.png';
-import imgTodo from '../assets/img/works/website/todolist.png';
-import imgYellow from '../assets/img/works/website/yellow.png';
-import imgGlass from '../assets/img/works/website/glassmorphism.png';
-import imgMoon from '../assets/img/works/website/moonlight.png';
+import imgCoke from '../assets/img/works/website/coke.jpg';
+import imgTodo from '../assets/img/works/website/todolist.jpg';
+import imgYellow from '../assets/img/works/website/yellow.jpg';
+import imgGlass from '../assets/img/works/website/glassmorphism.jpg';
+import imgMoon from '../assets/img/works/website/moonlight.jpg';
 
 const Menu = [
     {
