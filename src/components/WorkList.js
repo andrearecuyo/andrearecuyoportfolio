@@ -1,10 +1,10 @@
-import imgCupcakes from '../assets/img/works/design/cupcake-post.jpg';
+import imgCupcakes from '../assets/img/works/design/cupcake_post.jpg';
 import imgLuxLife from '../assets/img/works/design/luxlifenstyle.jpg';
 import imgJustbnco from '../assets/img/works/design/justbncomenu.jpg';
-import imgAlcohol from '../assets/img/works/design/iso-alcohol-packaging.jpg';
+import imgAlcohol from '../assets/img/works/design/iso_alcohol_packagin.jpg';
 import imgFbCover from '../assets/img/works/design/fbcover.jpg';
-import imgVWPOS from '../assets/img/works/design/vw-pos-brochure.jpg';
-import imgOrc from '../assets/img/works/design/orc-illustrator.jpg';
+import imgVWPOS from '../assets/img/works/design/vw_pos_brochure.jpg';
+import imgOrc from '../assets/img/works/design/orc_illustrator.jpg';
 
 import imgJustbncoweb from '../assets/img/works/website/justbncoweb.png';
 import imgHeatwave from '../assets/img/works/website/heatwave.png';
