@@ -12,5 +12,5 @@ This is the first version of my portfolio, I am planning to show my progress thr
 
 Follow my journey, as I learn, design, and code more websites!
 
-[Behance](https://www.behance.net/andrearecuyo)
+[Behance](https://www.behance.net/andrearecuyo) |
 [LinkedIn](https://www.linkedin.com/in/andrearecuyo/)
