@@ -7,6 +7,9 @@
 This site was built using [ReactJS](https://reactjs.org/), [React Fullpage](https://github.com/alvarotrigo/react-fullpage), [EmailJS](https://www.emailjs.com/), and [Swiper](https://swiperjs.com/).
 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" width="200">
+<img src="https://raw.githubusercontent.com/alvarotrigo/react-fullpage/master/assets/images/react-fullpage-logo.png" width="200">
+<img src="https://www.emailjs.com/logo.png" width="200">
+<img src="https://swiperjs.com/images/share-banner.png" width="200">
 
 This is the first version of my portfolio, I am planning to show my progress through this website. I am a self-taught Designer and Front-End Developer, currently developing more skills using ReactJS and Vue.js. I enjoy designing and solving problems. 
 
