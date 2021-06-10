@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1uT623kOHOVy6RWxvWIvb9RZf6tCKcld0/view">
+<img src="https://raw.githubusercontent.com/andrearecuyo/andrearecuyoportfolio/main/src/assets/img/hero.png">
 
 - 👋 Hi, I’m @andrearecuyo
 - 👀 I’m interested in gaming, music, and any kinds of entertainment literally.
