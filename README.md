@@ -6,8 +6,13 @@
 
 This portfolio is created in:
 
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" style="width: 200px;">
-
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" class="img">
+<style>
+  .img {
+    height:200px;
+  width: 200px;
+  }
+ </style>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
