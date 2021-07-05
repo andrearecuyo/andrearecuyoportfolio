@@ -18,7 +18,7 @@ function About() {
                 <div className="tablet">
                     <div className="tablet-text">
                         <div className="tablet-header">
-                            <h1>Front-End Developer.</h1>
+                            <h1>Designer & Front-End Developer.</h1>
                             <img src={Logo} alt="Andrea Recuyo Avatar logo"></img>
                         </div>
                         <p className="mt-5">I am sa self-taught Designer and Front-End Developer,
