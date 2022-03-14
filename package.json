@@ -2,6 +2,7 @@
   "name": "andrearecuyo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andrearecuyo.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
@@ -22,12 +23,14 @@
     "swiper": "^6.7.0",
     "web-vitals": "^1.1.2"
   },
-  "scripts": {
+  "scripts": { 
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
+   },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -45,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
