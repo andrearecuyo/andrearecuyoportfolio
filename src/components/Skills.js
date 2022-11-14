@@ -8,27 +8,27 @@ const skillsProgress = [
     {
         item: 'ReactJS',
         bgcolor: "#FEC3C3",
-        completed: 30
+        completed: 70
     },
     {
         item: 'Vue.JS',
         bgcolor: "#FEC3C3",
-        completed: 30
+        completed: 40
     },
     {
         item: 'JavaScript',
         bgcolor: "#FEC3C3",
-        completed: 40
+        completed: 70
     },
     {
         item: 'CSS',
         bgcolor: "#FEC3C3",
-        completed: 70
+        completed: 80
     },
     {
         item: 'HTML',
         bgcolor: "#FEC3C3",
-        completed: 70
+        completed: 80
     },
     {
         item: 'UI Design',
