@@ -8,7 +8,7 @@ const skillsProgress = [
     {
         item: 'ReactJS',
         bgcolor: "#FEC3C3",
-        completed: 70
+        completed: 75
     },
     {
         item: 'Vue.JS',
