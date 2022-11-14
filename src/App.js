@@ -2,9 +2,7 @@ function App() {
   document.title="Andrea Recuyo"
   
   return (
-    <div className="App">
-      
-    </div>
+    <div className="App"></div>
   );
 }
 
